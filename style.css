@@ -1,0 +1,14 @@
+h1{
+    color: aqua;
+    font-size: x-large;
+}
+
+p{
+    color: rgb(119, 27, 27);
+    font-size: medium;
+}
+
+a{
+    color: rgb(51, 51, 108);
+    font-size: smaller;
+}
